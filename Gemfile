@@ -9,7 +9,7 @@ gem 'puma', '~> 3.12'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'devise', '~> 4.6', '>= 4.6.2'
-gem 'simple_form', '~> 4.1'
+gem 'simple_form', '~> 5.0'
 gem 'haml', '~> 5.1', '>= 5.1.2'
 
 gem 'coffee-rails', '~> 4.2'
